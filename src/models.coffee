@@ -23,9 +23,11 @@ class Step
         @paths.push new Path(@, end)
 
     call: (input) ->
-        input = @function.call input
+        output = @function.call input
+        if @paths.length is 0
+            output
         for path in @paths
-            path.call input
+            path.call output
 
 
 class Function
