@@ -1,0 +1,13 @@
+2014-01-20 13:58:30,317 - __main__ - DEBUG - Test debug
+2014-01-20 13:58:30,317 - __main__ - INFO - Test info
+2014-01-20 13:58:30,318 - __main__ - WARNING - Test warning
+2014-01-20 13:58:30,318 - __main__ - ERROR - Test error
+2014-01-20 13:58:30,318 - __main__ - CRITICAL - Test critical
+2014-01-20 14:25:05,312 - __main__ - INFO - Running Emblem server.
+2014-01-20 14:25:05,458 - __main__ - INFO - Running Emblem server.
+2014-01-20 15:15:02,123 - __main__ - INFO - Running Emblem server.
+2014-01-20 15:15:42,476 - __main__ - INFO - Running Emblem server.
+2014-01-20 17:59:19,650 - __main__ - INFO - Running Emblem server.
+2014-01-20 17:59:28,852 - __main__ - INFO - Running Emblem server.
+2014-01-20 17:59:55,114 - __main__ - INFO - Running Emblem server.
+2014-01-20 18:05:03,652 - __main__ - INFO - Running Emblem server.

@@ -1,0 +1,32 @@
+.function {
+  width: 100px;
+  height: 100px;
+  padding: 0.5em;
+  border-radius: 100px;
+  background-color: #c86464;
+  text-align: center;
+  position: absolute;
+  left: 20px;
+  top: 100px;
+}
+.spacer {
+  margin-top: 40px;
+}
+.toolBox {
+  width: 150px;
+  height: 700px;
+  background-color: #4D4D4D;
+  text-align: center;
+}
+.placeholder {
+  width: 100px;
+  height: 100px;
+  padding: 0.5em;
+  border-radius: 100px;
+  background-color: #c86464;
+  text-align: center;
+  left: 20px;
+}
+.arrow {
+  background-image: url(http://www.blograzzi.net/wp-content/uploads/2011/04/arrow.jpg);
+}

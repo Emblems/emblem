@@ -6,7 +6,6 @@ The built-in JavaScript functions that the interpreter understands.
 Released under the MIT License.
 ###
 
-
 ### Global Functions ###
 
 decodeURIFunction = new Function(decodeURI, 'decodeURI', 'Decodes a URI.')
