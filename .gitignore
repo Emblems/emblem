@@ -28,5 +28,5 @@ Icon
 # *.sublime-project
 
 
-# Compiled files.
-bin/*
+### Floobits ###
+.floo*
