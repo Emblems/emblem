@@ -50,3 +50,8 @@ builtinsList = [
     Math.sqrt,
     Math.tan
 ]
+
+# The paradigm dictates the format in which the code is compiled.
+paradigm = 'functional'
+
+baseValidator = -> true

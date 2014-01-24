@@ -31,3 +31,10 @@ Icon
 ### Floobits ###
 .floo
 .flooignore
+
+### Source ###
+/static/js/*
+/static/css/*
+
+### Logs ###
+/logs/*
